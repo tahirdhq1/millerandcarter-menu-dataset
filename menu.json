@@ -1,0 +1,27 @@
+{
+  "restaurant": "Miller & Carter",
+  "source": "https://millerandcartermenue.co.uk/",
+  "last_updated": "2025-12-03",
+  "menu": [
+    {
+      "category": "Starters",
+      "items": [
+        {"name": "Garlic Mushrooms", "description": "Sauteed mushrooms in garlic butter", "price_gbp": 6.95},
+        {"name": "Prawn Cocktail", "description": "Classic prawns in Marie Rose sauce", "price_gbp": 7.50}
+      ]
+    },
+    {
+      "category": "Steaks",
+      "items": [
+        {"name": "Ribeye Steak 10oz", "description": "Aged ribeye", "price_gbp": 24.95},
+        {"name": "Sirloin Steak 8oz", "description": "Prime sirloin", "price_gbp": 19.95}
+      ]
+    },
+    {
+      "category": "Desserts",
+      "items": [
+        {"name": "Sticky Toffee Pudding", "description": "Warm toffee pudding with cream", "price_gbp": 5.50}
+      ]
+    }
+  ]
+}
